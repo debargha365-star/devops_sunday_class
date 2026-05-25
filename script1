@@ -1,3 +1,5 @@
 # This is a shell script
 echo "Hello DevOps"
 cal
+cat /etc/passwd
+cat /sbin/nologin
